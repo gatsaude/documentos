@@ -2,7 +2,7 @@
 
 ## diagrama
 
-```mermind
+```mermaid
     C4Context
       title System Context diagram for Internet Banking System
       Enterprise_Boundary(b0, "BankBoundary0") {
