@@ -1,5 +1,7 @@
 # exemplo
 
+[link](link.md)
+
 ## diagrama
 
 ```mermaid
